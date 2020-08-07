@@ -1,0 +1,21 @@
+#!/bin/sh
+#SBATCH --ntasks-per-node=16
+#SBATCH -N 2
+#SBATCH --time=48:0:0
+#SBATCH --cpu-freq=High
+#SBATCH -D /lustre/lusitania_homes/us63/us63763/DATA/Si/HIPHIVE/CALC/job-32
+#SBATCH -e job-32.err
+#SBATCH -o job-32.res
+#SBATCH --mail-user=jplata@us.es
+#SBATCH --mail-type=END
+#SBATCH --partition=us
+
+cp /lusitania_homes/us63/us63763/DATA/Si/SPOSCAR/WAVECAR .
+
+module load intel16
+ulimit -s unlimited
+mpirun /lusitania_apps/vasp.5.4.4/bin/vasp_std
+
+rm WAVECAR 
+
+find . -empty -print -delete

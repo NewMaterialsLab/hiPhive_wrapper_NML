@@ -1,0 +1,26 @@
+SYSTEM=potpaw_PBE@./ARUN.APL1ZEROSTATE
+NELMIN=4         
+NELM = 120       
+ADDGRID=.TRUE.   
+
+LPLANE=.TRUE.                                   # parallelization 
+NSIM=4                                          # tune size vector/matrix product
+ISYM=2                                          # SYMMMETRY=ON
+LWAVE=.FALSE.                                   # WAVECAR=OFF
+LCHARG=.FALSE.                                  # CHGCAR=OFF
+PREC=Accurate                                   # avoid wrap around errors
+ENMAX=500                                   # 1.4*ENMAX (245.345) of pseudopotentials 
+LREAL=.FALSE.                                   # reciprocal space projection technique 
+EDIFF=1E-8                                      # high accuracy required          
+
+ISMEAR=0                                        # for default (as metal)
+SIGMA=0.01                                       # for default (as metal)
+
+LAECHG=.FALSE.                                  # Performing STATIC  (Bader OFF)
+LELF=.FALSE.                                    # Performing STATIC  (Elf OFF)
+ALGO=Normal     
+
+NCORE = 16
+
+NSW= 0
+
