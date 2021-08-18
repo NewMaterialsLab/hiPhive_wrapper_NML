@@ -36,7 +36,7 @@ The Hiphive Package for the Extraction of High‐Order Force Constants by Machin
 Adv. Theory. Sim., 1800184 (2019)
 doi: 10.1002/adts.201800184
 
-Jose J. Plata Victor Posligua Antonio M. Marquez, Javier Fdez Sanz, Ricardo Grau-Crespo
+Jose J. Plata, Victor Posligua, Antonio M. Marquez, Javier Fdez Sanz, Ricardo Grau-Crespo
 Lattice thermal conductivities of chalcopyrite semiconductors
 XXXXXXXXX XXXXXXXXX (2021)
 doi:
