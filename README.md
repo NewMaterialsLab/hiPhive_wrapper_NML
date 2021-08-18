@@ -29,7 +29,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Credits 
 
-When using hiphive and hiPhive wrapper in your research please cite the following paper:
+When using hiphive and hiPhive wrapper in your research please cite the following papers:
 
 Fredrik Eriksson, Erik Fransson, and Paul Erhart<br/>
 The Hiphive Package for the Extraction of High‐Order Force Constants by Machine Learning<br/>
