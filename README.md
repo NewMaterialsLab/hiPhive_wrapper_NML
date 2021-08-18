@@ -31,14 +31,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 When using hiphive and hiPhive wrapper in your research please cite the following paper:
 
-Fredrik Eriksson, Erik Fransson, and Paul Erhart
-The Hiphive Package for the Extraction of High‐Order Force Constants by Machine Learning
-Adv. Theory. Sim., 1800184 (2019)
-doi: 10.1002/adts.201800184
+Fredrik Eriksson, Erik Fransson, and Paul Erhart<br/>
+The Hiphive Package for the Extraction of High‐Order Force Constants by Machine Learning<br/>
+Adv. Theory. Sim., 1800184 (2019)<br/>
+doi: [10.1002/adts.201800184](https://onlinelibrary.wiley.com/doi/abs/10.1002/adts.201800184)
 
-Jose J. Plata, Victor Posligua, Antonio M. Marquez, Javier Fdez Sanz, Ricardo Grau-Crespo
-Lattice thermal conductivities of chalcopyrite semiconductors
-XXXXXXXXX XXXXXXXXX (2021)
+Jose J. Plata, Victor Posligua, Antonio M. Marquez, Javier Fdez Sanz, Ricardo Grau-Crespo<br/>
+Lattice thermal conductivities of chalcopyrite semiconductors<br/>
+XXXXXXXXX XXXXXXXXX (2021)<br/>
 doi:
 
 ## License
