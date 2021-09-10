@@ -13,6 +13,10 @@ authors:
     given-names: Ricardo
 title: "hiPhive Wrapper"
 version: 1.0.0
-url: https://github.com/NewMaterialsLab/hiPhive_wrapper_NML
 doi: 10.xxxx/xxxx.xx.xx
+identifiers:
+  - description: This is the collection of input and output files from VASP and ShengBTE
+    type: doi
+    value: "10.5281/zenodo.xxxxx"
 date-released: 2021-08-18
+repository-code: "https://github.com/NewMaterialsLab/hiPhive_wrapper_NML"
