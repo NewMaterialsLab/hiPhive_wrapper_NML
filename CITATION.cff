@@ -5,7 +5,14 @@ authors:
     given-names: Jose J.
   - family-names: Posligua
     given-names: Victor
+  - family-names: Marquez
+    given-names: Antonio M.
+  - family-names: Fdez Sanz
+    given-names: Javier
+  - family-names: Grau-Crespo
+    given-names: Ricardo
 title: "hiPhive Wrapper"
 version: 1.0.0
+url: https://github.com/NewMaterialsLab/hiPhive_wrapper_NML
 doi: 10.xxxx/xxxx.xx.xx
 date-released: 2021-08-18
