@@ -3,7 +3,8 @@ message: "If you use this software in your work, please cite it as below."
 authors:
   - family-names: Plata
     given-names: Jose J.
-    orcid: https://orcid.org/0000-0002-0859-0450
+  - family-names: Posligua
+    given-names: Victor
 title: "hiPhive Wrapper"
 version: 1.0.0
 doi: 10.xxxx/xxxx.xx.xx
