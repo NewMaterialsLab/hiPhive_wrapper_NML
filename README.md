@@ -37,9 +37,9 @@ Adv. Theory. Sim., 1800184 (2019)<br/>
 doi: [10.1002/adts.201800184](https://onlinelibrary.wiley.com/doi/abs/10.1002/adts.201800184)
 
 Jose J. Plata, Victor Posligua, Antonio M. Marquez, Javier Fdez Sanz, Ricardo Grau-Crespo<br/>
-Lattice thermal conductivities of chalcopyrite semiconductors<br/>
-XXXXXXXXX XXXXXXXXX (2021)<br/>
-doi:
+Charting the Lattice Thermal Conductivities of I–III–VI2 Chalcopyrite Semiconductors <br/>
+Chem. Mater. 34, 2833-2841 (2022)<br/>
+doi: https://doi.org/10.1021/acs.chemmater.2c00336
 
 ## License
 [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
